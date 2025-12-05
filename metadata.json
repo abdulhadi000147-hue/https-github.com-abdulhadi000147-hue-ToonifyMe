@@ -1,0 +1,7 @@
+{
+  "name": "ToonifyMe",
+  "description": "Transform your photos into amazing cartoons using AI. Choose from 3D Cartoon, Anime, or Comic Book styles instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
